@@ -1,3 +1,3 @@
-# Seminar Learning in Games
+# Fictitious Play: Convergence
 
-Topic 03: Fictitious Play and the MiniMax Value Iteration algorithm in Zero-Sum games.
+Demonstration of the concept of convergence for the Fictitious Play algorithm, simulating a simple zero-sum game (matching pennies) over multiple iterations.
